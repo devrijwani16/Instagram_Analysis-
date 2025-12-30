@@ -72,3 +72,8 @@ Instagram Analytics Dashboard
 12. Final Note
     - This project is created for learning, portfolio, and internship evaluation
     - purposes. Feedback and suggestions are welcome.
+
+📊 Dashboard Preview
+
+![Instagram Analytics Dashboard](instagram_dashboard.png)
+
