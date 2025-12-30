@@ -65,10 +65,10 @@ Instagram Analytics Dashboard
     - Analytical and Problem-Solving Skills
 
 11. Author
-    Dev Rijwani
-    Data Management & Visual Insights
-    Data Analytics | Data Science | Generative AI
+    - Dev Rijwani
+    - Data Management & Visual Insights
+    - Data Analytics | Data Science | Generative AI
 
 12. Final Note
-    This project is created for learning, portfolio, and internship evaluation
-    purposes. Feedback and suggestions are welcome.
+    - This project is created for learning, portfolio, and internship evaluation
+    - purposes. Feedback and suggestions are welcome.
